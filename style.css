@@ -1,0 +1,19 @@
+.freelancers {
+  display: inline-block;
+  text-align: center;
+}
+
+.mainsection {
+  width: 25em;
+  border: 5px solid black;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+h3 {
+  text-align: center;
+  margin-left: 2em;
+}
